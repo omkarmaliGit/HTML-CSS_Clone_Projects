@@ -1,7 +1,7 @@
-# HTML-CSS Clone Projects
+<h1>HTML-CSS Clone Projects</h1>
 Welcome to my HTML-CSS Clone Projects repository! Here, I showcase a series of web development projects where I recreate popular websites and interfaces using only HTML and CSS. These projects are an excellent way for me to hone my front-end development skills and gain hands-on experience in building responsive and visually appealing web pages.
 
-# Project Highlights
+<h2>Project Highlights</h2>
 Each project in this repository is a faithful reproduction of the original website's layout, design, and interactions using pure HTML and CSS. By forgoing JavaScript and other frameworks, I challenge myself to creatively implement CSS styling and layouts to achieve the desired results. Throughout this learning journey, I explore various CSS techniques, such as Flexbox, Grid, animations, and responsive design, to make my clones look and feel as close to the real thing as possible.
 
 # Why HTML and CSS Only?
